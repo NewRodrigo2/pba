@@ -1,1 +1,1 @@
-** **este es el README de Main ademas tiene tres archivos mas que son nueva-prueba, probando y Nuevo-file-pba, por lo que tengo que ver que pasa con los arvivos de la branch de probar
+** **este es el README de una nueva branch de main, ademas se ven todos los archivos de main. supongo que contienen lo mismo que pasa si los modifico
